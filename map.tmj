@@ -150,6 +150,16 @@
                          "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/www.facebook.com\/CMIBrest"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Appuyez sur ESPACE \/ Press SPACE"
                         }],
                  "type":"tilelayer",
                  "visible":true,
